@@ -1,0 +1,2479 @@
+[
+    {
+        "created_at": "Tue Aug 04 13:49:51 +0000 2020",
+        "id": 1290646130720637000,
+        "id_str": "1290646130720636928",
+        "text": "@monzo McDonalds",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "monzo",
+                    "name": "Monzo",
+                    "id": 3224409977,
+                    "id_str": "3224409977",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1290580993037017000,
+        "in_reply_to_status_id_str": "1290580993037017089",
+        "in_reply_to_user_id": 3224409977,
+        "in_reply_to_user_id_str": "3224409977",
+        "in_reply_to_screen_name": "monzo",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jul 22 19:54:31 +0000 2020",
+        "id": 1286026862611837000,
+        "id_str": "1286026862611836929",
+        "text": "I'm trying to practice my chinese pronunciation. Safe to say it's not going well https://t.co/krnZVuqcqd",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1286026860082724900,
+                    "id_str": "1286026860082724874",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdjinZbXgAonpUr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EdjinZbXgAonpUr.jpg",
+                    "url": "https://t.co/krnZVuqcqd",
+                    "display_url": "pic.twitter.com/krnZVuqcqd",
+                    "expanded_url": "https://twitter.com/georgeruellan/status/1286026862611836929/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1128,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1128,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 651,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1286026860082724900,
+                    "id_str": "1286026860082724874",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdjinZbXgAonpUr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EdjinZbXgAonpUr.jpg",
+                    "url": "https://t.co/krnZVuqcqd",
+                    "display_url": "pic.twitter.com/krnZVuqcqd",
+                    "expanded_url": "https://twitter.com/georgeruellan/status/1286026862611836929/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1128,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1128,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 651,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 10 10:54:41 +0000 2020",
+        "id": 1281542353094955000,
+        "id_str": "1281542353094955008",
+        "text": "@TrappedInKaran Build it bro build it",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TrappedInKaran",
+                    "name": "Karan Navani",
+                    "id": 787809792,
+                    "id_str": "787809792",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1281146541181415400,
+        "in_reply_to_status_id_str": "1281146541181415425",
+        "in_reply_to_user_id": 787809792,
+        "in_reply_to_user_id_str": "787809792",
+        "in_reply_to_screen_name": "TrappedInKaran",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 03 11:00:53 +0000 2020",
+        "id": 1279007198589452300,
+        "id_str": "1279007198589452289",
+        "text": "RT @Twitter: You can have an edit button when everyone wears a mask",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Twitter",
+                    "name": "Twitter",
+                    "id": 783214,
+                    "id_str": "783214",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 02 18:53:14 +0000 2020",
+            "id": 1278763679421431800,
+            "id_str": "1278763679421431809",
+            "text": "You can have an edit button when everyone wears a mask",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 783214,
+                "id_str": "783214",
+                "name": "Twitter",
+                "screen_name": "Twitter",
+                "location": "everywhere",
+                "description": "What's happening!?",
+                "url": "https://t.co/TAXQpsHa5X",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TAXQpsHa5X",
+                                "expanded_url": "https://about.twitter.com/",
+                                "display_url": "about.twitter.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 58534451,
+                "friends_count": 9,
+                "listed_count": 87131,
+                "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+                "favourites_count": 6378,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 13930,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1308010958862905345/-SGZioPb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308010958862905345/-SGZioPb_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1604501727",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 680229,
+            "favorite_count": 2860581,
+            "favorited": true,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 680229,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 02 17:44:27 +0000 2020",
+        "id": 1278746370455883800,
+        "id_str": "1278746370455883782",
+        "text": "@michaelreeves More coding streams please they're great",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "michaelreeves",
+                    "name": "Michael Reeves",
+                    "id": 826288847562559500,
+                    "id_str": "826288847562559488",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1277920569208369200,
+        "in_reply_to_status_id_str": "1277920569208369152",
+        "in_reply_to_user_id": 826288847562559500,
+        "in_reply_to_user_id_str": "826288847562559488",
+        "in_reply_to_screen_name": "michaelreeves",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue May 12 13:55:19 +0000 2020",
+        "id": 1260206926798950400,
+        "id_str": "1260206926798950400",
+        "text": "@traversymedia Figma",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "traversymedia",
+                    "name": "Brad Traversy",
+                    "id": 870038005,
+                    "id_str": "870038005",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1260189142748725200,
+        "in_reply_to_status_id_str": "1260189142748725249",
+        "in_reply_to_user_id": 870038005,
+        "in_reply_to_user_id_str": "870038005",
+        "in_reply_to_screen_name": "traversymedia",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue May 12 09:22:01 +0000 2020",
+        "id": 1260138147402449000,
+        "id_str": "1260138147402448898",
+        "text": "@devgummibeer @jeppe_olesen @iamdevloper Puberty",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "devgummibeer",
+                    "name": "Tom Witkowski",
+                    "id": 2995381594,
+                    "id_str": "2995381594",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "jeppe_olesen",
+                    "name": "Jeppe H. Olesen",
+                    "id": 18410163,
+                    "id_str": "18410163",
+                    "indices": [
+                        14,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "iamdevloper",
+                    "name": "I Am Devloper",
+                    "id": 564919357,
+                    "id_str": "564919357",
+                    "indices": [
+                        28,
+                        40
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1259591885288607700,
+        "in_reply_to_status_id_str": "1259591885288607749",
+        "in_reply_to_user_id": 2995381594,
+        "in_reply_to_user_id_str": "2995381594",
+        "in_reply_to_screen_name": "devgummibeer",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat May 09 17:57:35 +0000 2020",
+        "id": 1259180730061664300,
+        "id_str": "1259180730061664256",
+        "text": "RT @mkobach: No one is thinking about you as much as you think they are",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mkobach",
+                    "name": "Matthew Kobach",
+                    "id": 2188509068,
+                    "id_str": "2188509068",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat May 09 12:32:04 +0000 2020",
+            "id": 1259098810594312200,
+            "id_str": "1259098810594312197",
+            "text": "No one is thinking about you as much as you think they are",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2188509068,
+                "id_str": "2188509068",
+                "name": "Matthew Kobach",
+                "screen_name": "mkobach",
+                "location": "Fast Flex",
+                "description": "marketing, content, creativity • life",
+                "url": "https://t.co/pfg71P0MOV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pfg71P0MOV",
+                                "expanded_url": "http://www.instagram.com/mkobach",
+                                "display_url": "instagram.com/mkobach",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 84159,
+                "friends_count": 3570,
+                "listed_count": 1534,
+                "created_at": "Mon Nov 11 14:47:08 +0000 2013",
+                "favourites_count": 34028,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 21055,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1322917779830235141/O5HW2W_u_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322917779830235141/O5HW2W_u_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2188509068/1591888153",
+                "profile_link_color": "079AF5",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 173,
+            "favorite_count": 1214,
+            "favorited": true,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 173,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Apr 30 17:59:46 +0000 2020",
+        "id": 1255919790562128000,
+        "id_str": "1255919790562127873",
+        "text": "@techleadhd Stop doxxing teenagers.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "techleadhd",
+                    "name": "TechLead",
+                    "id": 9701462,
+                    "id_str": "9701462",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1255918505968300000,
+        "in_reply_to_status_id_str": "1255918505968300033",
+        "in_reply_to_user_id": 9701462,
+        "in_reply_to_user_id_str": "9701462",
+        "in_reply_to_screen_name": "techleadhd",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "nl"
+    },
+    {
+        "created_at": "Sun Apr 26 19:00:36 +0000 2020",
+        "id": 1254485547986440200,
+        "id_str": "1254485547986440192",
+        "text": "RT @JamesClear: Most topics are not worth having an opinion about.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JamesClear",
+                    "name": "James Clear",
+                    "id": 226428094,
+                    "id_str": "226428094",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Apr 25 21:25:49 +0000 2020",
+            "id": 1254159703522893800,
+            "id_str": "1254159703522893827",
+            "text": "Most topics are not worth having an opinion about.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 226428094,
+                "id_str": "226428094",
+                "name": "James Clear",
+                "screen_name": "JamesClear",
+                "location": "",
+                "description": "Author of the #1 NYT bestseller Atomic Habits (https://t.co/S97QUDuBUa). I write about building better habits. Over 900,000 people read my 3-2-1 newsletter (see link)",
+                "url": "https://t.co/9KfuKZ2MO1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/9KfuKZ2MO1",
+                                "expanded_url": "http://jamesclear.com/3-2-1",
+                                "display_url": "jamesclear.com/3-2-1",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/S97QUDuBUa",
+                                "expanded_url": "http://atomichabits.com",
+                                "display_url": "atomichabits.com",
+                                "indices": [
+                                    47,
+                                    70
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 379883,
+                "friends_count": 496,
+                "listed_count": 5477,
+                "created_at": "Tue Dec 14 03:58:09 +0000 2010",
+                "favourites_count": 10414,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 11733,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FAFAFA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/226428094/1557171326",
+                "profile_link_color": "0071BC",
+                "profile_sidebar_border_color": "E3E3E3",
+                "profile_sidebar_fill_color": "D1EDFF",
+                "profile_text_color": "222222",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1153,
+            "favorite_count": 4989,
+            "favorited": true,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1153,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Apr 16 09:01:34 +0000 2020",
+        "id": 1250710917920313300,
+        "id_str": "1250710917920313344",
+        "text": "@AliAbdaal Partner with Squarespace? You could make a video out of the redesign process. I'd watch that!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AliAbdaal",
+                    "name": "Ali Abdaal",
+                    "id": 30436279,
+                    "id_str": "30436279",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1250390300851425300,
+        "in_reply_to_status_id_str": "1250390300851425280",
+        "in_reply_to_user_id": 30436279,
+        "in_reply_to_user_id_str": "30436279",
+        "in_reply_to_screen_name": "AliAbdaal",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Apr 13 19:07:19 +0000 2020",
+        "id": 1249776195245392000,
+        "id_str": "1249776195245391880",
+        "text": "@caseybotticello broken link",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1249684278830604300,
+        "in_reply_to_status_id_str": "1249684278830604292",
+        "in_reply_to_user_id": 474432166,
+        "in_reply_to_user_id_str": "474432166",
+        "in_reply_to_screen_name": "Blogging__Guide",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 08 18:35:01 +0000 2020",
+        "id": 1247956129541488600,
+        "id_str": "1247956129541488642",
+        "text": "@perayson @SCC_Lancaster A rest well deserved! Enjoy it",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "perayson",
+                    "name": "Paul Rayson",
+                    "id": 263108959,
+                    "id_str": "263108959",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "SCC_Lancaster",
+                    "name": "SCC Lancaster",
+                    "id": 208601751,
+                    "id_str": "208601751",
+                    "indices": [
+                        10,
+                        24
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1247931627763892200,
+        "in_reply_to_status_id_str": "1247931627763892225",
+        "in_reply_to_user_id": 263108959,
+        "in_reply_to_user_id_str": "263108959",
+        "in_reply_to_screen_name": "perayson",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 03 15:23:53 +0000 2020",
+        "id": 1246096088131678200,
+        "id_str": "1246096088131678210",
+        "text": "RT @holliepoetry: Spoke to my beautiful friend last night - a lung doctor in the nhs. She said, while its a lovely gesture, instead of just…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "holliepoetry",
+                    "name": "Hollie McNish",
+                    "id": 376853673,
+                    "id_str": "376853673",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Apr 02 22:22:51 +0000 2020",
+            "id": 1245839139054014500,
+            "id_str": "1245839139054014465",
+            "text": "Spoke to my beautiful friend last night - a lung doctor in the nhs. She said, while its a lovely gesture, instead o… https://t.co/CmRmc0eDmX",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/CmRmc0eDmX",
+                        "expanded_url": "https://twitter.com/i/web/status/1245839139054014465",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 376853673,
+                "id_str": "376853673",
+                "name": "Hollie McNish",
+                "screen_name": "holliepoetry",
+                "location": "UK",
+                "description": "I like writing. New book (Slug) out Feb 2021. Pre-order: https://t.co/JnyBxq5yBX. Enquiries: oli@pagetoperformance.org. Books: Cherry Pie / Nobody Told Me / Plum",
+                "url": "https://t.co/TKg0tuikyH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TKg0tuikyH",
+                                "expanded_url": "http://www.holliepoetry.com/livedates",
+                                "display_url": "holliepoetry.com/livedates",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JnyBxq5yBX",
+                                "expanded_url": "http://bit.ly/323r0Tu",
+                                "display_url": "bit.ly/323r0Tu",
+                                "indices": [
+                                    57,
+                                    80
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 37384,
+                "friends_count": 370,
+                "listed_count": 304,
+                "created_at": "Tue Sep 20 16:14:26 +0000 2011",
+                "favourites_count": 10049,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 13186,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1133123774256168960/GZPeKBtR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133123774256168960/GZPeKBtR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/376853673/1602960527",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 53058,
+            "favorite_count": 207076,
+            "favorited": false,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 53058,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Dec 22 22:46:03 +0000 2019",
+        "id": 1208881412172079000,
+        "id_str": "1208881412172079106",
+        "text": "RT @AndrewYang: We should consider decriminalizing sex work on the part of the seller - it would be helpful in combating human trafficking.…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AndrewYang",
+                    "name": "Andrew Yang🧢🇺🇸",
+                    "id": 2228878592,
+                    "id_str": "2228878592",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Dec 22 22:09:00 +0000 2019",
+            "id": 1208872089148629000,
+            "id_str": "1208872089148628993",
+            "text": "We should consider decriminalizing sex work on the part of the seller - it would be helpful in combating human traf… https://t.co/tNHaKC0CHI",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/tNHaKC0CHI",
+                        "expanded_url": "https://twitter.com/i/web/status/1208872089148628993",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2228878592,
+                "id_str": "2228878592",
+                "name": "Andrew Yang🧢🇺🇸",
+                "screen_name": "AndrewYang",
+                "location": "USA",
+                "description": "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: https://t.co/2Jcw34TC5o Join the movement: https://t.co/O2T0vktBsw",
+                "url": "https://t.co/O2T0vktBsw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/O2T0vktBsw",
+                                "expanded_url": "http://movehumanityforward.com",
+                                "display_url": "movehumanityforward.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/2Jcw34TC5o",
+                                "expanded_url": "http://bit.ly/2POZplk",
+                                "display_url": "bit.ly/2POZplk",
+                                "indices": [
+                                    88,
+                                    111
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/O2T0vktBsw",
+                                "expanded_url": "http://movehumanityforward.com",
+                                "display_url": "movehumanityforward.com",
+                                "indices": [
+                                    131,
+                                    154
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1818847,
+                "friends_count": 7657,
+                "listed_count": 5662,
+                "created_at": "Tue Dec 03 21:31:03 +0000 2013",
+                "favourites_count": 12617,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 23777,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1320018636224999425/q8MpOLDP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320018636224999425/q8MpOLDP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2228878592/1583848202",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5488,
+            "favorite_count": 53777,
+            "favorited": true,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5488,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Dec 10 16:52:59 +0000 2019",
+        "id": 1204443906131349500,
+        "id_str": "1204443906131349504",
+        "text": "@sizehelpteam Hi there I ordered something and it was supposed to arrived 'on or before 10th December' but order tr… https://t.co/gSiMHYzV5n",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sizehelpteam",
+                    "name": "size? Customer Care",
+                    "id": 82903896,
+                    "id_str": "82903896",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/gSiMHYzV5n",
+                    "expanded_url": "https://twitter.com/i/web/status/1204443906131349504",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 82903896,
+        "in_reply_to_user_id_str": "82903896",
+        "in_reply_to_screen_name": "sizehelpteam",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Nov 13 16:10:37 +0000 2019",
+        "id": 1194648771575111700,
+        "id_str": "1194648771575111680",
+        "text": "Organising Startup Weekend Lancaster was one of the hardest things I’ve ever done but also one of the most rewardin… https://t.co/y4tBDW2fGe",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/y4tBDW2fGe",
+                    "expanded_url": "https://twitter.com/i/web/status/1194648771575111680",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Oct 11 14:22:26 +0000 2019",
+        "id": 1182662749601616000,
+        "id_str": "1182662749601615874",
+        "text": "@myyylan @henrietta_grace take that back they're delicious",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "myyylan",
+                    "name": "mailan",
+                    "id": 742433682926010400,
+                    "id_str": "742433682926010368",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "henrietta_grace",
+                    "name": "henrietta",
+                    "id": 981352969,
+                    "id_str": "981352969",
+                    "indices": [
+                        9,
+                        25
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1182385971322601500,
+        "in_reply_to_status_id_str": "1182385971322601472",
+        "in_reply_to_user_id": 742433682926010400,
+        "in_reply_to_user_id_str": "742433682926010368",
+        "in_reply_to_screen_name": "myyylan",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Sep 21 18:03:42 +0000 2019",
+        "id": 1175470675877908500,
+        "id_str": "1175470675877908481",
+        "text": "RT @trisweb: What’s funny about startups in this era of climate crisis is that there’s actually a need and opportunity to literally save th…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "trisweb",
+                    "name": "Tristan Harward",
+                    "id": 14145056,
+                    "id_str": "14145056",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Sep 20 23:53:22 +0000 2019",
+            "id": 1175196281268052000,
+            "id_str": "1175196281268051968",
+            "text": "What’s funny about startups in this era of climate crisis is that there’s actually a need and opportunity to litera… https://t.co/pIyrFJrOXc",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pIyrFJrOXc",
+                        "expanded_url": "https://twitter.com/i/web/status/1175196281268051968",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14145056,
+                "id_str": "14145056",
+                "name": "Tristan Harward",
+                "screen_name": "trisweb",
+                "location": "Massachusetts",
+                "description": "keep going",
+                "url": "https://t.co/kwZn2iXQC9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/kwZn2iXQC9",
+                                "expanded_url": "http://www.trisweb.com",
+                                "display_url": "trisweb.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2373,
+                "friends_count": 1541,
+                "listed_count": 312,
+                "created_at": "Fri Mar 14 04:56:10 +0000 2008",
+                "favourites_count": 218999,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 31531,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E7E1C7",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1260572820595187716/VhOgIhcv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260572820595187716/VhOgIhcv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14145056/1579017322",
+                "profile_link_color": "35AAE6",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 82,
+            "favorite_count": 502,
+            "favorited": true,
+            "retweeted": true,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 82,
+        "favorite_count": 0,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Sep 15 21:54:19 +0000 2019",
+        "id": 1173354384668991500,
+        "id_str": "1173354384668991488",
+        "text": "@jarvis You were funnier back when you were just doing computing shit",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jarvis",
+                    "name": "jarvis johnson",
+                    "id": 59318218,
+                    "id_str": "59318218",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1173344964610162700,
+        "in_reply_to_status_id_str": "1173344964610162689",
+        "in_reply_to_user_id": 59318218,
+        "in_reply_to_user_id_str": "59318218",
+        "in_reply_to_screen_name": "jarvis",
+        "user": {
+            "id": 225730689,
+            "id_str": "225730689",
+            "name": "George",
+            "screen_name": "georgeruellan",
+            "location": "Lancaster University",
+            "description": "CS Student, Software Developer. Let’s talk.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291,
+            "friends_count": 164,
+            "listed_count": 3,
+            "created_at": "Sun Dec 12 09:18:58 +0000 2010",
+            "favourites_count": 1288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 377,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281542500046581760/rhK-6OCt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225730689/1547133913",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]
